@@ -8,4 +8,4 @@ A Unity editor extension allowing you to find all references to a GameObject and
 - Click on *Find References*
 
 # Setup
-- Put the [FindReferencesWindow.cs](https://github.com/MrNothing/Unity-References-Finder/blob/master/FindReferencesWindow.cs) file in a *Editor* folder in your Unity project.
+- Put the [FindReferencesWindow.cs](https://github.com/MrNothing/Unity-References-Finder/blob/master/FindReferencesWindow.cs) file in any *Editor* folder in your Unity project.
