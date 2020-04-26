@@ -36,7 +36,6 @@ public class FindReferencesWindow : EditorWindow
         }
     }
 
-    // Add a new menu item that is accessed by right-clicking inside the RigidBody component
     [MenuItem("GameObject/Find references", false, 0)]
     private static void FindReferences()
     {
